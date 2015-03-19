@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "example codes",
+  "main": "scaling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravi patwal",
+  "license": "MIT",
+  "dependencies": {
+    "child-process-manager": "0.0.3"
+  }
+}
